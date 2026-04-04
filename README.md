@@ -4,4 +4,6 @@
 
 2. script1.py contains the code that is imported in the jupyter notebook.
 
-3. The excels and script1.py are to be in the same folder as the Mohammad Wasif.ipynb file.
+3. The excels and script1.py are to be in the same folder as the Final.ipynb file.
+
+4. Final.ipynb file contains the analysis done and insights taken.
